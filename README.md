@@ -2,7 +2,7 @@
 
 By day, I help people of color unlock high growth careers as software engineers at [Resilient Coders](https://resilientcoders.org)
 
-By night, I help folks learn web development as Distinguished Faculty at [General Assembly](https://generalassemb.ly/instructors/leon-noel/2051)
+By night, I help folks learn web development as a Distinguished Faculty member at [General Assembly](https://generalassemb.ly/instructors/leon-noel/2051)
 
 By every other hour, you can find me on [Discord](https://leonnoel.com/discord), [Twitch](https://leonnoel.com/twitch), and [Youtube](https://leonnoel.com/youtube) helping folks learn to code and explore a new career in tech!
 
